@@ -1,4 +1,4 @@
 # Operating-system
 
-The all codes for Operating-system lesson.
-use these codes to support your lesson program
+All codes for Operating-system lesson.
+use these codes to support Operating-system's practical lesson program
